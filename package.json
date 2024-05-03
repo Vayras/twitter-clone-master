@@ -8,7 +8,7 @@
     "deploy": "sh deploy.sh"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "core-js": "^3.11.1",
     "normalize.css": "^8.0.1",
     "reset-css": "^5.0.1",
